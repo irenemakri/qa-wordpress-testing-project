@@ -1,2 +1,4 @@
-# qa-wordpress-testing-project
-Manual &amp; API testing project for a WordPress website (Bootcamp project)
+# QA Wordpress Testing Project
+This project demonstrates manual and API testing skills applied to a locally hosted WordPress website as part of a Software Testing Bootcamp.
+
+## Project Overview
